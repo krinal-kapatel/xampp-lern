@@ -1,0 +1,45 @@
+.start{
+    width: 500px;
+    height: 450px;
+    background-color:gold;
+    opacity: 0.7;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.bg{
+    background-image: url('../upload image/OIP.jpg');
+    background-size: contain;
+}
+h1{
+    padding-top: 20px;
+}
+.text-center{
+
+    color:chartreuse;
+}
+.img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+}
+.txtbox{
+    width: 300px;
+    height: 30px;
+    margin-top: 15px;
+    background-color:white;
+    text-align: start;
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+}
+.btn
+{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:lime;
+}
